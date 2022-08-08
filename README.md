@@ -1,0 +1,2 @@
+AQUA SOLUTIONS PROJECT: 
+The motivation behind this project is to solidify the beginner knowledge I have for html/css. This is a made up company, but I wanted to build a static page that can showcase my design and development skills. With this project I learned how to better use flex-box and I learned the @media tag more to have certain actions occur when a specific screen size is obtained. 
